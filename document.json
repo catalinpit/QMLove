@@ -1,0 +1,44 @@
+[
+  {
+    "model": "QMLove.Hobby",
+    "pk": 1,
+    "fields": {
+      "name": "Fishing"
+    }
+  },
+  {
+    "model": "QMLove.Hobby",
+    "pk": 2,
+    "fields": {
+      "name": "Fitness"
+    }
+  },
+  {
+    "model": "QMLove.Hobby",
+    "pk": 3,
+    "fields": {
+      "name": "Politics"
+    }
+  },
+  {
+    "model": "QMLove.Hobby",
+    "pk": 4,
+    "fields": {
+      "name": "Rugby"
+    }
+  },
+  {
+    "model": "QMLove.Hobby",
+    "pk": 5,
+    "fields": {
+      "name": "Skiing"
+    }
+  },
+  {
+    "model": "QMLove.Hobby",
+    "pk": 6,
+    "fields": {
+      "name": "Hunting"
+    }
+  }
+]
