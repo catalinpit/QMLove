@@ -1,1 +1,3 @@
-web: gunicorn MatchingSite.wsgi --log-file - --log-level debug
+web: gunicorn MatchingSite.wsgi --preload --workers 1
+
+
