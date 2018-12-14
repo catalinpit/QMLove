@@ -1,41 +1,41 @@
 [
   {
-    "model": "QMLove.Hobby",
+    "model": "QMLove.hobby",
     "pk": 1,
     "fields": {
       "name": "Fishing"
     }
   },
   {
-    "model": "QMLove.Hobby",
+    "model": "QMLove.hobby",
     "pk": 2,
     "fields": {
       "name": "Fitness"
     }
   },
   {
-    "model": "QMLove.Hobby",
+    "model": "QMLove.hobby",
     "pk": 3,
     "fields": {
       "name": "Politics"
     }
   },
   {
-    "model": "QMLove.Hobby",
+    "model": "QMLove.hobby",
     "pk": 4,
     "fields": {
       "name": "Rugby"
     }
   },
   {
-    "model": "QMLove.Hobby",
+    "model": "QMLove.hobby",
     "pk": 5,
     "fields": {
       "name": "Skiing"
     }
   },
   {
-    "model": "QMLove.Hobby",
+    "model": "QMLove.hobby",
     "pk": 6,
     "fields": {
       "name": "Hunting"
