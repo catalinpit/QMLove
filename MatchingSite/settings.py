@@ -26,7 +26,7 @@ SECRET_KEY = '&q3kls27soirnm7ba#7(l$dg2bryhax=@0u-_*ooj7q+xfyzgo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['qmlove.herokuapp.com']
 
 
 # Application definition
